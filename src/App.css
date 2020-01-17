@@ -103,7 +103,39 @@ body {
 
 
 
-
+/* to give the div a full screen height to center the content on screen */
 .center{
   height: 100vh;
+}
+
+.navimage {
+
+  width: 75%;
+  height: auto;
+}
+
+/* styling voor de header boven de tabs */
+
+.header{
+  margin: 5% 0;
+}
+
+/* styling voor de tabs met content */
+
+.tabs{
+  width: 80%;
+  padding: 0 0 5% 0;
+  text-align: left;
+}
+
+.tab{
+  padding: 1% 2%;
+}
+
+.text{
+  padding: 2% 0% ;
+}
+
+imageText{
+  width: 50%;
 }

@@ -8,10 +8,10 @@ class Onderzoeken extends React.Component{
             <Grid
                 container
                 direction="column"
-                justify="center"
+                justify="flex-start"
                 alignItems="center"
                 className="center">
-                <h1>Onderzoeken</h1>
+                <h1 className="header">Onderzoeken</h1>
             </Grid>
        )
     }

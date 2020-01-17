@@ -1,11 +1,13 @@
 import React from "react";
 import { push as Menu } from "react-burger-menu";
+import placeholder from "../Images/placeholder.jpg";
 
 export default props => {
   return (
     // Pass on our props
     <Menu {...props}>
-      <img data-src="../Images/placeholder.png" alt="placeholder"></img>
+      <img src={placeholder} alt="placeholder" className="navimage"></img>
+
       <a className="menu-item" href="/">
         Home
       </a>
