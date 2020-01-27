@@ -30,21 +30,34 @@ class Ondernemen extends React.Component{
                                 <div className="content">
                                     <h3></h3>
                                     <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <img></img>
+                                    <p><b>Situatie</b></p>
+                                    <p>Tijdens mijn stage wilde ik uitzoeken wat ik het leukst vond binnen het vakgebied. Hierbij hoorde ook het ontwerpen. Mijn begeleider wilde me daar wel in begeleiden en gaf me de opdracht een nieuw ontwerp te maken voor de website van stichting tekenbeetziekten.</p>
+                                    <p><b>Taak</b></p>
+                                    <p>Mijn taak was het ontwikkelen van een nieuwe website voor stichting tekenbeetziekten beginnent bij een ontwerp. Hoe ik dit ging doen mocht ik zelf uitzoeken. Mijn doel werd om een mooie nieuwe website neer te zetten voor stichting tekenbeetziekten. Van mij werd verwacht dat ik iteratief te werk ging en zoveel mogelijk noteerde van mijn werkwijze.</p>
+                                    <p><b>Actie</b></p>
+                                    <p>Ik ben begonnen met het vaststellen van de doelgroep zoals ik dat op school heb geleerd en heb hier een persona van gemaakt. Vervolgens ben ik in adobe XD een wireframe gaan maken om deze vervolgens in fotoshop door te ontwikkelen naar een echt ontwerp.</p>
+                                    <p><b>Resultaat</b></p>
+                                    <p>Het resultaat is een mooi ontwerp dat kan worden voorgelegd aan de stichting. Helaas had de stichting geen tijd meer voor het einde van mijn stage om te reageren. Het iteratief werken werkt goed omdat je steeds verder komt in je ontwerp en slechte dingen van vorige iteraties verbeterd in het nieuwe ontwerp.</p>
+                                    <p><b>Reflectie</b></p>
+                                    <p>In het vervolg zou ik het hetzelfde aanpakken met misschien wat extra iteraties of evaluatie momenten tussendoor om meer feedback te krijgen en tot een nog beter resultaat te kunnen komen.
+Ik was tevreden met het resultaat en vind het jammer dat ik het niet heb kunnen door ontwikkelen naar een website. Ik heb geleerd om te gaan met fotoshop en beter rekening te houden met zowel UX als UI om de website zo mooi en gebruiksvriendelijk mogelijk te maken.  De opgedane kennis zal in toekomstige projecten veel helpen en sneller en makkelijker in het project kunnen worden toegevoegd.
+</p>
                                 </div>
                             </TabContent>
                             <TabContent for="STARR teamverband">
                                 <div className="content">
-                                    <h3></h3>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
-                                    <p></p>
+                                    <h3>STARR teamverband</h3>
+                                    <p>Tijdens mijn stage heb ik veel in teamverband gewerkt. Ik ga 1 van deze situaties met de STARR methode behandelen</p>
+                                    <p><b>Situatie</b></p>
+                                    <p>RotterdamDuurzaam is een initiatief opgezet door IDN. Op het begin was het aan mij om individueel verbeterpunten voor de website te zoeken om deze nieuw leven in te blazen. Dit project werd al gouw een team project waarin ik meerdere rollen heb gespeeld. Van ons werd verwacht dat we met ideeën kwamen die de website nieuw leven in zouden blazen.</p>
+                                    <p><b>Taak</b></p>
+                                    <p>Een aantal verschillende rollen die ik heb gekleed zijn: ontwerper, Ik heb de visuals voor social media gemaakt en geholpen bij het maken van een nieuw design voor RotterdamDuurzaam, en onderzoeker, we hebben veel onderzoek moeten doen naar bijvoorbeeld de content die mensen aan trekt, de beste tijd om te posten of welke initiatieven we aan de website konden toevoegen</p>
+                                    <p><b>Actie</b></p>
+                                    <p>We zijn begonnen naar het kijken van het verbeterpunten document dat ik eerder al had gemaakt en hier dingen aan gaan toevoegen. De website werd niet groen gehost en dat was punt 1 dat we wilden oplossen. Vervolgens zijn we gaan brainstormen om andere manieren te bedenken om meer mensen naar de website te trekken. Onze hoofd ideeën: social media actief posten, nieuwe initiatieven zoeken en opzoek gaan naar leuke acties. Dit hebben we zo gedaan omdat dat voor veel andere bedrijven ook werkt om ze terug op de kaart te zetten.</p>
+                                    <p><b>Resultaat</b></p>
+                                    <p>Het behaalde resultaat was dat vooral op social media meer bekendheid is gekomen en er initiatieven waren die ons contacteerden om ook op de website te komen. We hebben met onze acties wel iets meer gebruikers gegenereerd maar niet veel. Mogelijk omdat de website nog in een wat verouderde staat is en er niet aantrekkelijk uitziet voor het publiek.</p>
+                                    <p><b>Reflectie</b></p>
+                                    <p>Volgende keer zou ik vragen om meer hulp. Nu hebben we met zijn 3e alles moeten doen en heeft er vooral heel veel tijd gezeten in het schrijven van social media posts. Dit valt niet binnen mijn competenties waardoor ik denk dat ik deze tijd ook beter had kunnen besteden. Het werk binnen het team verliep goed. De teamleden hebben een betere band met elkaar opgebouwd waardoor het werk ook makkelijker verliep. Van de hele situatie heb ik wel inzichten gekregen over hoe je een website of bedrijf op de kaart kan zetten met gebruik van social media.</p>
                                     <img></img>
                                 </div>
                             </TabContent>
