@@ -15,9 +15,8 @@ class Ondernemen extends React.Component{
                 justify="flex-start"
                 alignItems="center"
                 className="center">
-                <h1 className="header">Ondernemen</h1>
-
                 <div className="tabs">
+                <h1 className="header">Ondernemen</h1>
                     <Tabs>
                         <TabLink to="STARR individueel" className="tab">STARR individueel</TabLink>
                         <TabLink to="STARR teamverband" className="tab">STARR teamverband</TabLink>
@@ -88,7 +87,7 @@ Ik ben gaan zoeken naar oplossingen hiervoor maar kwam er al snel achter dat dit
                                     <p>Op de website staat een lijst met duurzame initiatieven. Een categorie hiervan is horeca. Als je op zo’n horeca gelegenheid klikt kom je op een pagina met alleen maar tekst over het bedrijf. Mijn eerste voorstel was om een aantal foto’s toe te voegen om een sfeerbeeld te creëren voor de bezoeker zodat ze een idee hebben waar ze naar kijken. Later leek het mij een leuk idee hier dan een 360 graden foto van te maken om een soort kijkje in het restaurant te geven.
 Alle verbeteringen heb ik genoteerd in het volgende document:
 </p>
-                                    <a href="https://docs.google.com/document/d/1Mh8FXGf3S7MC2_xkQQvpUY18SzJKh6T6Nuhik2X9QU4/edit?usp=sharing">Verbeteringen document RotterdamDuurzaam</a>
+                                    <a href="https://docs.google.com/document/d/1Mh8FXGf3S7MC2_xkQQvpUY18SzJKh6T6Nuhik2X9QU4/edit?usp=sharing" target="blank">Verbeteringen document RotterdamDuurzaam</a>
                                     <p>Deze verbeteringen ben ik voor zover mogelijk zelf gaan implimenteren. Helaas was het niet mogelijk voor mij de grote veranderingen toe te voegen omdat de website al wat outdated was en er eerst geinvesteerd moet worden in updates.</p>
                                 </div>
                             </TabContent>
@@ -99,7 +98,7 @@ Alle verbeteringen heb ik genoteerd in het volgende document:
                                     <p>Samen met 1 andere stagiair ben ik gaan zoeken naar Dit soort stichtingen die wel een website up-grade kunnen gebruiken. Samen hebben we een lijst gemaakt met 100 stichtingen en voor iedere stichting ook de redenen waarom de site geüpdatet moet worden en hoe. Deze lijst hebben we voorgelegd aan de stichtingen met daarbij de keuze om het door ons te laten doen voor een ver-laagd tarief of er iets anders mee te doen. Voor het klantencontact zijn we een samenwerking aan-gegaan met het sales team. Er zijn eerst mails gestuurd om te kijken of hier antwoord op kwam. Als de mails onbeantwoord bleven is er gebeld om het te vragen.</p>
                                     <p>Het doel van dit kansen onderzoek was de stichtingen meer bekendheid geven en daarmee mis-schien meer donaties en vrijwilligers genereren. Natuurlijk was een bijzaak ook nieuwe klanten genereren voor IDN.</p>
                                     <p>We hoopten uit de lijst met 100 stichtingen ongeveer 10 nieuwe projecten te halen. Uiteindelijk zijn dit er 3 geworden en 1 misschien. Het grootste probleem is dat er vaak geen budget is om het uit te besteden en IDN niet bereid was het voor minder te doen dan het al verlaagde Stichtingen tarief. Met dit onderzoek hoopte ik meer klanten te genereren om daarmee ook een deel van de Betrokken competentie te behalen. Maar 3 stichtingen een betere bekentenis geven vond ik niet genoeg. Daarom ben ik weer samen met de andere stagiair gaan werken aan RotterdamDuurzaam.nl</p>
-                                    <a href="https://docs.google.com/document/d/1lVUaKE76eiw4tKP2LpCm0hbbC118HK1QWVO2Ja2PQ78/edit?usp=sharing">Kansenonderzoek</a>
+                                    <a href="https://docs.google.com/document/d/1lVUaKE76eiw4tKP2LpCm0hbbC118HK1QWVO2Ja2PQ78/edit?usp=sharing" target="blank">Kansenonderzoek</a>
                                     <img></img>
                                 </div>
                             </TabContent>

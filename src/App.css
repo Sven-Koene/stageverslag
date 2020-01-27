@@ -118,14 +118,13 @@ body {
 
 .header{
   margin: 5% 0;
-  height:30%;
 }
 
 /* styling voor de tabs met content */
 
 .tabs{
   width: 80%;
-  padding: 0 0 5% 0;
+  padding: 0 8% 5% 8%;
   text-align: left;
 }
 
@@ -142,7 +141,7 @@ imageText{
 }
 
 .content{
-  padding: 0 8% 3%;
+  padding: 0 0 3%;
   text-align: left;
   font-size: 1.2em;
 }

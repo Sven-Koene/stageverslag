@@ -17,9 +17,10 @@ class Ontwerpen extends React.Component{
                 justify="flex-start"
                 alignItems="center"
                 className="center">
-                <h1 className="header">Ontwerpen</h1>
+               
 
                 <div className="tabs">
+                <h1 className="header">Ontwerpen</h1>
                     <Tabs>
                         <TabLink to="infographic" className="tab">Infographic</TabLink>
                         <TabLink to="Persona" className="tab">Persona</TabLink>
@@ -77,7 +78,7 @@ class Ontwerpen extends React.Component{
                                     
                                     <p>Vervolgens na de feedbackrondes ben ik verder gaan werken aan de andere pagina’s te zien op de volgende google drive link: 
                                     <br></br>
-                                    <a href="https://drive.google.com/drive/folders/10YJhDUs1yhFNrZ16-nOU0O80f5dWla3F?usp=sharing">Andere Tekenbeetziekten pagina's</a>
+                                    <a href="https://drive.google.com/drive/folders/10YJhDUs1yhFNrZ16-nOU0O80f5dWla3F?usp=sharing" target="blank">Andere Tekenbeetziekten pagina's</a>
                                     </p>
                                     <img src={iteratie1} alt="iteratie 1" className="contentImage"></img>
                                     <img src={iteratie2} alt="iteratie 2" className="contentImage"></img>

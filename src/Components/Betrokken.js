@@ -14,9 +14,10 @@ class Betrokken extends React.Component{
                 justify="flex-start"
                 alignItems="center"
                 className="center">
-                <h1 className="header">Betrokken</h1>
+               
 
                 <div className="tabs">
+                <h1 className="header">Betrokken</h1>
                     <Tabs>
                         <TabLink to="feedback" className="tab">Feedback</TabLink>
                         <TabLink to="logboek" className="tab">Logboek</TabLink>
@@ -85,7 +86,7 @@ class Betrokken extends React.Component{
                                     <p>Tijdens het omzet proces kwam ik er ook achter dat ik soms niet reflecteerde op mijn werk maar alleen omschreef wat ik heb gedaan. Omdat de beleving nog redelijk in mijn hoofd zat heb ik daarom de reflectie alsnog toegevoegd en ben ik in het vervolg extra gaan letten op het reflecteren. Wel vind ik reflecteren vaak moeilijk en val ik vaak terug op het omschrijven van mijn werkzaamheden.</p>
                                     <p>Doordat ik terug kon lezen wat ik heb gedaan en mijn reflectie daarbij is het schrijven van het stage verslag ook een stuk makkelijker geworden. Een onzeker gevoel die ik heb gehad bij het maken van bijvoorbeeld de infographic zou ik nu niet meer voor me kunnen halen maar omdat ik het eerder al heb genoteerd kon dat nu dus wel.</p>
                                     <p>Logboeken zijn een goeie tool om informatie te onthouden en later terug te kunnen zoeken. Voor een toekomstig project over een langere tijd of bijvoorbeeld mijn afstudeerstage ga ik dit dan ook zeker weer gebruiken. Helaas is mijn logboek in de laatste weken verwaarloost. Dit wil ik voorkomen door eens per week bijvoorbeeld een half uur of een uur in te plannen om deze bij te werken.</p>
-                                    <a href="https://docs.google.com/document/d/16ubEdL09g9ZGfEiuXcg09LL-W9fmBbWzKjLRNA8KxC8/edit?usp=sharing">Logboek</a>
+                                    <a href="https://docs.google.com/document/d/16ubEdL09g9ZGfEiuXcg09LL-W9fmBbWzKjLRNA8KxC8/edit?usp=sharing" target="blank">Logboek</a>
                                     <img></img>
                                 </div>
                             </TabContent>
@@ -96,7 +97,7 @@ class Betrokken extends React.Component{
                                     <p>Samen met 1 andere stagiair ben ik gaan zoeken naar Dit soort stichtingen die wel een website up-grade kunnen gebruiken. Samen hebben we een lijst gemaakt met 100 stichtingen en voor iedere stichting ook de redenen waarom de site geüpdatet moet worden en hoe. Deze lijst hebben we voorgelegd aan de stichtingen met daarbij de keuze om het door ons te laten doen voor een ver-laagd tarief of er iets anders mee te doen. Voor het klantencontact zijn we een samenwerking aan-gegaan met het sales team. Er zijn eerst mails gestuurd om te kijken of hier antwoord op kwam. Als de mails onbeantwoord bleven is er gebeld om het te vragen.</p>
                                     <p>Het doel van dit kansen onderzoek was de stichtingen meer bekendheid geven en daarmee mis-schien meer donaties en vrijwilligers genereren. Natuurlijk was een bijzaak ook nieuwe klanten genereren voor IDN.</p>
                                     <p>We hoopten uit de lijst met 100 stichtingen ongeveer 10 nieuwe projecten te halen. Uiteindelijk zijn dit er 3 geworden en 1 misschien. Het grootste probleem is dat er vaak geen budget is om het uit te besteden en IDN niet bereid was het voor minder te doen dan het al verlaagde Stichtingen tarief. Met dit onderzoek hoopte ik meer klanten te genereren om daarmee ook een deel van de Betrokken competentie te behalen. Maar 3 stichtingen een betere bekentenis geven vond ik niet genoeg. Daarom ben ik weer samen met de andere stagiair gaan werken aan RotterdamDuurzaam.nl</p>
-                                    <a href="https://docs.google.com/document/d/1lVUaKE76eiw4tKP2LpCm0hbbC118HK1QWVO2Ja2PQ78/edit?usp=sharing">Kansenonderzoek</a>
+                                    <a href="https://docs.google.com/document/d/1lVUaKE76eiw4tKP2LpCm0hbbC118HK1QWVO2Ja2PQ78/edit?usp=sharing" target="blank">Kansenonderzoek</a>
                                 </div>
                             </TabContent>
                             <TabContent for="RotterdamDuurzaam">

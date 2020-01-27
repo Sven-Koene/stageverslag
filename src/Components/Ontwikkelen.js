@@ -16,9 +16,10 @@ class Ontwikkelen extends React.Component{
                 justify="flex-start"
                 alignItems="center"
                 className="center">
-                <h1 className="header">Ontwikkelen</h1>
+               
 
                 <div className="tabs">
+                <h1 className="header">Ontwikkelen</h1>
                     <Tabs>
                         <TabLink to="Simplicate" className="tab">Simplicate</TabLink>
                         <TabLink to="Bultersmekke" className="tab">Bultersmekke </TabLink>
@@ -114,7 +115,7 @@ Omdat een groot deel van de sites al stond toen mijn stage begon heb ik helaas n
                                     <p>Na het maken van dit Testplan ben ik samen met een andere stagiair de tests gaan doorlopen. Er zaten nog veel bugs in die wij vaak zelf konden oplossen maar ook genoeg waar we hulp voor moesten inschakelen. 
 De volgende link verwijst naar het Document met daarin het Testplan met uitslagen.
                                     </p>
-                                    <a href="https://docs.google.com/document/d/1gJ5hIyeQ4PkDPvaQ7ZXwhdcJ_7TqFsd6OnuRpenw8is/edit">Testplan</a>
+                                    <a href="https://docs.google.com/document/d/1gJ5hIyeQ4PkDPvaQ7ZXwhdcJ_7TqFsd6OnuRpenw8is/edit" target="blank">Testplan</a>
                                     <p>De test in de bijlage begint met een onderzoek naar welke browsers er het meest worden gebruikt op pc, tablet en telefoon. Zo kunnen de tests gericht worden uitgevoerd in de juiste browsers.
 Vervolgens staat er een uitleg over de test en hoe de test template in elkaar zit. De template is onderverdeeld in de verschillende devices met een subtitel voor de verschillende pagina’s van de geteste website. 
 Als laatst staat de template en de testresultaten in de bijlage. Een groot probleem bleek de ondersteuning voor internet explorer. De websites zagen er vaak goed uit in chrome en firefox maar alles ging kapot in internet explorer omdat bepaalde functies binnen gantry niet werken binnen internet explorer.
@@ -136,7 +137,7 @@ Binnen de bijlage is het nog niet altijd duidelijk te zien waar op de pagina iet
                     </Tabs>
                 </div>
             </Grid>
-       )
+        )
     }
 }
 
