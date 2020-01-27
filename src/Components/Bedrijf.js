@@ -19,7 +19,7 @@ className="center">
 <div className="tabs">
     <h1 className="header">Het bedrijf</h1>
         <Tabs>
-            <TabLink to="IDN" className="tab">Simplicate</TabLink>
+            <TabLink to="IDN" className="tab">internetdienstennederland</TabLink>
             <TabLink to="bedrijfsbezoek" className="tab">Bedrijfsbezoeken </TabLink>
             <TabLink to="reflectie" className="tab">Samenvatting en reflectie</TabLink>
 
@@ -53,6 +53,18 @@ className="center">
                                      <p>Ondanks het kleine kern team kan je wel altijd met je vragen langs komen of vragen om feedback op je werk. Je wordt niet gezien als stagiair maar als werknemer. Zo krijg je niet alleen alle verve-lende klusjes maar echt opdrachten. Natuurlijk zijn er altijd wel vervelende klusjes die moeten gebeuren.</p>
                                      <br></br>
                                      <h3>Colofon</h3>
+                                     <p>
+                                     Adres<br></br>
+                                    Internetdiensten Nederland<br></br>
+                                    Bovendijk 132<br></br>
+                                    3045 PC Rotterdam<br></br>
+                                    <br></br>
+                                    E-mail<br></br>
+                                    info@internetdienstennederland.nl<br></br>
+                                    <br></br>
+                                    Telefoonnummer<br></br>
+                                    +31 (0)85 - 4444 134<br></br>
+                                     </p>
                                  </div>
                             </TabContent>
                             <TabContent for="bedrijfsbezoek">
