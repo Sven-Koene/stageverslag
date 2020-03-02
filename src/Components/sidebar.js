@@ -6,9 +6,7 @@ export default props => {
   return (
     // Pass on our props
     <Menu {...props}>
-      <img src={placeholder} alt="placeholder" className="navimage"></img>
-
-      <a className="menu-item" href="/">
+           <a className="menu-item" href="/">
         Home
       </a>
 
